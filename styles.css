@@ -1,0 +1,26 @@
+h1
+{
+    background-color: white;
+    color: black;
+    height: 40px;
+    padding: 30px;
+    text-align: auto;
+}
+h2
+{
+    background:yellowgreen;
+    color: black;
+    height: 40px;
+    padding: 30px;
+    text-align: center;
+}
+p{
+    background: white;
+    color: black;
+    height: 30px;
+    width: 90px;
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+    font-size:x-large;
+}
